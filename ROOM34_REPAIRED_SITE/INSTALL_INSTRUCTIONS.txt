@@ -1,0 +1,9 @@
+IMPORTANT: Your uploaded homepage was named index(20261018-225305).html. This package renames it to index.html, which is the required homepage filename.
+
+1. Back up your existing site.
+2. Copy ALL files from ROOM34_REPAIRED_SITE into your website root (the same folder as index.html).
+3. Do not rename vocab-arena.js.
+4. Keep your existing images folder.
+5. Restart Live Server, hard refresh (Ctrl+Shift+R), select a group, open Lesson 6, scroll beneath Spelling Lab.
+
+Note: This package does not contain your images, which were not uploaded. Keep your existing images folder.

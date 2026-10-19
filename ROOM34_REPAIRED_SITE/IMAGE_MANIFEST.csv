@@ -1,0 +1,271 @@
+lesson,type,group,relative_path,status
+1,cover,,images/lessons/lesson01-cover.webp,supplied
+1,reading,Pioneers,images/readings/lesson01-pioneers.webp,supplied
+1,reading,Creators,images/readings/lesson01-creators.webp,supplied
+1,reading,Visionaries,images/readings/lesson01-visionaries.webp,supplied
+1,reading,Storytellers,images/readings/lesson01-storytellers.webp,supplied
+1,reading,Legends,images/readings/lesson01-legends.webp,supplied
+2,cover,,images/lessons/lesson02-cover.webp,supplied
+2,reading,Pioneers,images/readings/lesson02-pioneers.webp,supplied
+2,reading,Creators,images/readings/lesson02-creators.webp,supplied
+2,reading,Visionaries,images/readings/lesson02-visionaries.webp,supplied
+2,reading,Storytellers,images/readings/lesson02-storytellers.webp,supplied
+2,reading,Legends,images/readings/lesson02-legends.webp,supplied
+3,cover,,images/lessons/lesson03-cover.webp,supplied
+3,reading,Pioneers,images/readings/lesson03-pioneers.webp,supplied
+3,reading,Creators,images/readings/lesson03-creators.webp,supplied
+3,reading,Visionaries,images/readings/lesson03-visionaries.webp,supplied
+3,reading,Storytellers,images/readings/lesson03-storytellers.webp,supplied
+3,reading,Legends,images/readings/lesson03-legends.webp,supplied
+4,cover,,images/lessons/lesson04-cover.webp,placeholder
+4,reading,Pioneers,images/readings/lesson04-pioneers.webp,placeholder
+4,reading,Creators,images/readings/lesson04-creators.webp,placeholder
+4,reading,Visionaries,images/readings/lesson04-visionaries.webp,placeholder
+4,reading,Storytellers,images/readings/lesson04-storytellers.webp,placeholder
+4,reading,Legends,images/readings/lesson04-legends.webp,placeholder
+5,cover,,images/lessons/lesson05-cover.webp,placeholder
+5,reading,Pioneers,images/readings/lesson05-pioneers.webp,placeholder
+5,reading,Creators,images/readings/lesson05-creators.webp,placeholder
+5,reading,Visionaries,images/readings/lesson05-visionaries.webp,placeholder
+5,reading,Storytellers,images/readings/lesson05-storytellers.webp,placeholder
+5,reading,Legends,images/readings/lesson05-legends.webp,placeholder
+6,cover,,images/lessons/lesson06-cover.webp,placeholder
+6,reading,Pioneers,images/readings/lesson06-pioneers.webp,placeholder
+6,reading,Creators,images/readings/lesson06-creators.webp,placeholder
+6,reading,Visionaries,images/readings/lesson06-visionaries.webp,placeholder
+6,reading,Storytellers,images/readings/lesson06-storytellers.webp,placeholder
+6,reading,Legends,images/readings/lesson06-legends.webp,placeholder
+7,cover,,images/lessons/lesson07-cover.webp,placeholder
+7,reading,Pioneers,images/readings/lesson07-pioneers.webp,placeholder
+7,reading,Creators,images/readings/lesson07-creators.webp,placeholder
+7,reading,Visionaries,images/readings/lesson07-visionaries.webp,placeholder
+7,reading,Storytellers,images/readings/lesson07-storytellers.webp,placeholder
+7,reading,Legends,images/readings/lesson07-legends.webp,placeholder
+8,cover,,images/lessons/lesson08-cover.webp,placeholder
+8,reading,Pioneers,images/readings/lesson08-pioneers.webp,placeholder
+8,reading,Creators,images/readings/lesson08-creators.webp,placeholder
+8,reading,Visionaries,images/readings/lesson08-visionaries.webp,placeholder
+8,reading,Storytellers,images/readings/lesson08-storytellers.webp,placeholder
+8,reading,Legends,images/readings/lesson08-legends.webp,placeholder
+9,cover,,images/lessons/lesson09-cover.webp,placeholder
+9,reading,Pioneers,images/readings/lesson09-pioneers.webp,placeholder
+9,reading,Creators,images/readings/lesson09-creators.webp,placeholder
+9,reading,Visionaries,images/readings/lesson09-visionaries.webp,placeholder
+9,reading,Storytellers,images/readings/lesson09-storytellers.webp,placeholder
+9,reading,Legends,images/readings/lesson09-legends.webp,placeholder
+10,cover,,images/lessons/lesson10-cover.webp,placeholder
+10,reading,Pioneers,images/readings/lesson10-pioneers.webp,placeholder
+10,reading,Creators,images/readings/lesson10-creators.webp,placeholder
+10,reading,Visionaries,images/readings/lesson10-visionaries.webp,placeholder
+10,reading,Storytellers,images/readings/lesson10-storytellers.webp,placeholder
+10,reading,Legends,images/readings/lesson10-legends.webp,placeholder
+11,cover,,images/lessons/lesson11-cover.webp,placeholder
+11,reading,Pioneers,images/readings/lesson11-pioneers.webp,placeholder
+11,reading,Creators,images/readings/lesson11-creators.webp,placeholder
+11,reading,Visionaries,images/readings/lesson11-visionaries.webp,placeholder
+11,reading,Storytellers,images/readings/lesson11-storytellers.webp,placeholder
+11,reading,Legends,images/readings/lesson11-legends.webp,placeholder
+12,cover,,images/lessons/lesson12-cover.webp,placeholder
+12,reading,Pioneers,images/readings/lesson12-pioneers.webp,placeholder
+12,reading,Creators,images/readings/lesson12-creators.webp,placeholder
+12,reading,Visionaries,images/readings/lesson12-visionaries.webp,placeholder
+12,reading,Storytellers,images/readings/lesson12-storytellers.webp,placeholder
+12,reading,Legends,images/readings/lesson12-legends.webp,placeholder
+13,cover,,images/lessons/lesson13-cover.webp,placeholder
+13,reading,Pioneers,images/readings/lesson13-pioneers.webp,placeholder
+13,reading,Creators,images/readings/lesson13-creators.webp,placeholder
+13,reading,Visionaries,images/readings/lesson13-visionaries.webp,placeholder
+13,reading,Storytellers,images/readings/lesson13-storytellers.webp,placeholder
+13,reading,Legends,images/readings/lesson13-legends.webp,placeholder
+14,cover,,images/lessons/lesson14-cover.webp,placeholder
+14,reading,Pioneers,images/readings/lesson14-pioneers.webp,placeholder
+14,reading,Creators,images/readings/lesson14-creators.webp,placeholder
+14,reading,Visionaries,images/readings/lesson14-visionaries.webp,placeholder
+14,reading,Storytellers,images/readings/lesson14-storytellers.webp,placeholder
+14,reading,Legends,images/readings/lesson14-legends.webp,placeholder
+15,cover,,images/lessons/lesson15-cover.webp,placeholder
+15,reading,Pioneers,images/readings/lesson15-pioneers.webp,placeholder
+15,reading,Creators,images/readings/lesson15-creators.webp,placeholder
+15,reading,Visionaries,images/readings/lesson15-visionaries.webp,placeholder
+15,reading,Storytellers,images/readings/lesson15-storytellers.webp,placeholder
+15,reading,Legends,images/readings/lesson15-legends.webp,placeholder
+16,cover,,images/lessons/lesson16-cover.webp,placeholder
+16,reading,Pioneers,images/readings/lesson16-pioneers.webp,placeholder
+16,reading,Creators,images/readings/lesson16-creators.webp,placeholder
+16,reading,Visionaries,images/readings/lesson16-visionaries.webp,placeholder
+16,reading,Storytellers,images/readings/lesson16-storytellers.webp,placeholder
+16,reading,Legends,images/readings/lesson16-legends.webp,placeholder
+17,cover,,images/lessons/lesson17-cover.webp,placeholder
+17,reading,Pioneers,images/readings/lesson17-pioneers.webp,placeholder
+17,reading,Creators,images/readings/lesson17-creators.webp,placeholder
+17,reading,Visionaries,images/readings/lesson17-visionaries.webp,placeholder
+17,reading,Storytellers,images/readings/lesson17-storytellers.webp,placeholder
+17,reading,Legends,images/readings/lesson17-legends.webp,placeholder
+18,cover,,images/lessons/lesson18-cover.webp,placeholder
+18,reading,Pioneers,images/readings/lesson18-pioneers.webp,placeholder
+18,reading,Creators,images/readings/lesson18-creators.webp,placeholder
+18,reading,Visionaries,images/readings/lesson18-visionaries.webp,placeholder
+18,reading,Storytellers,images/readings/lesson18-storytellers.webp,placeholder
+18,reading,Legends,images/readings/lesson18-legends.webp,placeholder
+19,cover,,images/lessons/lesson19-cover.webp,placeholder
+19,reading,Pioneers,images/readings/lesson19-pioneers.webp,placeholder
+19,reading,Creators,images/readings/lesson19-creators.webp,placeholder
+19,reading,Visionaries,images/readings/lesson19-visionaries.webp,placeholder
+19,reading,Storytellers,images/readings/lesson19-storytellers.webp,placeholder
+19,reading,Legends,images/readings/lesson19-legends.webp,placeholder
+20,cover,,images/lessons/lesson20-cover.webp,placeholder
+20,reading,Pioneers,images/readings/lesson20-pioneers.webp,placeholder
+20,reading,Creators,images/readings/lesson20-creators.webp,placeholder
+20,reading,Visionaries,images/readings/lesson20-visionaries.webp,placeholder
+20,reading,Storytellers,images/readings/lesson20-storytellers.webp,placeholder
+20,reading,Legends,images/readings/lesson20-legends.webp,placeholder
+21,cover,,images/lessons/lesson21-cover.webp,placeholder
+21,reading,Pioneers,images/readings/lesson21-pioneers.webp,placeholder
+21,reading,Creators,images/readings/lesson21-creators.webp,placeholder
+21,reading,Visionaries,images/readings/lesson21-visionaries.webp,placeholder
+21,reading,Storytellers,images/readings/lesson21-storytellers.webp,placeholder
+21,reading,Legends,images/readings/lesson21-legends.webp,placeholder
+22,cover,,images/lessons/lesson22-cover.webp,placeholder
+22,reading,Pioneers,images/readings/lesson22-pioneers.webp,placeholder
+22,reading,Creators,images/readings/lesson22-creators.webp,placeholder
+22,reading,Visionaries,images/readings/lesson22-visionaries.webp,placeholder
+22,reading,Storytellers,images/readings/lesson22-storytellers.webp,placeholder
+22,reading,Legends,images/readings/lesson22-legends.webp,placeholder
+23,cover,,images/lessons/lesson23-cover.webp,placeholder
+23,reading,Pioneers,images/readings/lesson23-pioneers.webp,placeholder
+23,reading,Creators,images/readings/lesson23-creators.webp,placeholder
+23,reading,Visionaries,images/readings/lesson23-visionaries.webp,placeholder
+23,reading,Storytellers,images/readings/lesson23-storytellers.webp,placeholder
+23,reading,Legends,images/readings/lesson23-legends.webp,placeholder
+24,cover,,images/lessons/lesson24-cover.webp,placeholder
+24,reading,Pioneers,images/readings/lesson24-pioneers.webp,placeholder
+24,reading,Creators,images/readings/lesson24-creators.webp,placeholder
+24,reading,Visionaries,images/readings/lesson24-visionaries.webp,placeholder
+24,reading,Storytellers,images/readings/lesson24-storytellers.webp,placeholder
+24,reading,Legends,images/readings/lesson24-legends.webp,placeholder
+25,cover,,images/lessons/lesson25-cover.webp,placeholder
+25,reading,Pioneers,images/readings/lesson25-pioneers.webp,placeholder
+25,reading,Creators,images/readings/lesson25-creators.webp,placeholder
+25,reading,Visionaries,images/readings/lesson25-visionaries.webp,placeholder
+25,reading,Storytellers,images/readings/lesson25-storytellers.webp,placeholder
+25,reading,Legends,images/readings/lesson25-legends.webp,placeholder
+26,cover,,images/lessons/lesson26-cover.webp,placeholder
+26,reading,Pioneers,images/readings/lesson26-pioneers.webp,placeholder
+26,reading,Creators,images/readings/lesson26-creators.webp,placeholder
+26,reading,Visionaries,images/readings/lesson26-visionaries.webp,placeholder
+26,reading,Storytellers,images/readings/lesson26-storytellers.webp,placeholder
+26,reading,Legends,images/readings/lesson26-legends.webp,placeholder
+27,cover,,images/lessons/lesson27-cover.webp,placeholder
+27,reading,Pioneers,images/readings/lesson27-pioneers.webp,placeholder
+27,reading,Creators,images/readings/lesson27-creators.webp,placeholder
+27,reading,Visionaries,images/readings/lesson27-visionaries.webp,placeholder
+27,reading,Storytellers,images/readings/lesson27-storytellers.webp,placeholder
+27,reading,Legends,images/readings/lesson27-legends.webp,placeholder
+28,cover,,images/lessons/lesson28-cover.webp,placeholder
+28,reading,Pioneers,images/readings/lesson28-pioneers.webp,placeholder
+28,reading,Creators,images/readings/lesson28-creators.webp,placeholder
+28,reading,Visionaries,images/readings/lesson28-visionaries.webp,placeholder
+28,reading,Storytellers,images/readings/lesson28-storytellers.webp,placeholder
+28,reading,Legends,images/readings/lesson28-legends.webp,placeholder
+29,cover,,images/lessons/lesson29-cover.webp,placeholder
+29,reading,Pioneers,images/readings/lesson29-pioneers.webp,placeholder
+29,reading,Creators,images/readings/lesson29-creators.webp,placeholder
+29,reading,Visionaries,images/readings/lesson29-visionaries.webp,placeholder
+29,reading,Storytellers,images/readings/lesson29-storytellers.webp,placeholder
+29,reading,Legends,images/readings/lesson29-legends.webp,placeholder
+30,cover,,images/lessons/lesson30-cover.webp,placeholder
+30,reading,Pioneers,images/readings/lesson30-pioneers.webp,placeholder
+30,reading,Creators,images/readings/lesson30-creators.webp,placeholder
+30,reading,Visionaries,images/readings/lesson30-visionaries.webp,placeholder
+30,reading,Storytellers,images/readings/lesson30-storytellers.webp,placeholder
+30,reading,Legends,images/readings/lesson30-legends.webp,placeholder
+31,cover,,images/lessons/lesson31-cover.webp,placeholder
+31,reading,Pioneers,images/readings/lesson31-pioneers.webp,placeholder
+31,reading,Creators,images/readings/lesson31-creators.webp,placeholder
+31,reading,Visionaries,images/readings/lesson31-visionaries.webp,placeholder
+31,reading,Storytellers,images/readings/lesson31-storytellers.webp,placeholder
+31,reading,Legends,images/readings/lesson31-legends.webp,placeholder
+32,cover,,images/lessons/lesson32-cover.webp,placeholder
+32,reading,Pioneers,images/readings/lesson32-pioneers.webp,placeholder
+32,reading,Creators,images/readings/lesson32-creators.webp,placeholder
+32,reading,Visionaries,images/readings/lesson32-visionaries.webp,placeholder
+32,reading,Storytellers,images/readings/lesson32-storytellers.webp,placeholder
+32,reading,Legends,images/readings/lesson32-legends.webp,placeholder
+33,cover,,images/lessons/lesson33-cover.webp,placeholder
+33,reading,Pioneers,images/readings/lesson33-pioneers.webp,placeholder
+33,reading,Creators,images/readings/lesson33-creators.webp,placeholder
+33,reading,Visionaries,images/readings/lesson33-visionaries.webp,placeholder
+33,reading,Storytellers,images/readings/lesson33-storytellers.webp,placeholder
+33,reading,Legends,images/readings/lesson33-legends.webp,placeholder
+34,cover,,images/lessons/lesson34-cover.webp,placeholder
+34,reading,Pioneers,images/readings/lesson34-pioneers.webp,placeholder
+34,reading,Creators,images/readings/lesson34-creators.webp,placeholder
+34,reading,Visionaries,images/readings/lesson34-visionaries.webp,placeholder
+34,reading,Storytellers,images/readings/lesson34-storytellers.webp,placeholder
+34,reading,Legends,images/readings/lesson34-legends.webp,placeholder
+35,cover,,images/lessons/lesson35-cover.webp,placeholder
+35,reading,Pioneers,images/readings/lesson35-pioneers.webp,placeholder
+35,reading,Creators,images/readings/lesson35-creators.webp,placeholder
+35,reading,Visionaries,images/readings/lesson35-visionaries.webp,placeholder
+35,reading,Storytellers,images/readings/lesson35-storytellers.webp,placeholder
+35,reading,Legends,images/readings/lesson35-legends.webp,placeholder
+36,cover,,images/lessons/lesson36-cover.webp,placeholder
+36,reading,Pioneers,images/readings/lesson36-pioneers.webp,placeholder
+36,reading,Creators,images/readings/lesson36-creators.webp,placeholder
+36,reading,Visionaries,images/readings/lesson36-visionaries.webp,placeholder
+36,reading,Storytellers,images/readings/lesson36-storytellers.webp,placeholder
+36,reading,Legends,images/readings/lesson36-legends.webp,placeholder
+37,cover,,images/lessons/lesson37-cover.webp,placeholder
+37,reading,Pioneers,images/readings/lesson37-pioneers.webp,placeholder
+37,reading,Creators,images/readings/lesson37-creators.webp,placeholder
+37,reading,Visionaries,images/readings/lesson37-visionaries.webp,placeholder
+37,reading,Storytellers,images/readings/lesson37-storytellers.webp,placeholder
+37,reading,Legends,images/readings/lesson37-legends.webp,placeholder
+38,cover,,images/lessons/lesson38-cover.webp,placeholder
+38,reading,Pioneers,images/readings/lesson38-pioneers.webp,placeholder
+38,reading,Creators,images/readings/lesson38-creators.webp,placeholder
+38,reading,Visionaries,images/readings/lesson38-visionaries.webp,placeholder
+38,reading,Storytellers,images/readings/lesson38-storytellers.webp,placeholder
+38,reading,Legends,images/readings/lesson38-legends.webp,placeholder
+39,cover,,images/lessons/lesson39-cover.webp,placeholder
+39,reading,Pioneers,images/readings/lesson39-pioneers.webp,placeholder
+39,reading,Creators,images/readings/lesson39-creators.webp,placeholder
+39,reading,Visionaries,images/readings/lesson39-visionaries.webp,placeholder
+39,reading,Storytellers,images/readings/lesson39-storytellers.webp,placeholder
+39,reading,Legends,images/readings/lesson39-legends.webp,placeholder
+40,cover,,images/lessons/lesson40-cover.webp,placeholder
+40,reading,Pioneers,images/readings/lesson40-pioneers.webp,placeholder
+40,reading,Creators,images/readings/lesson40-creators.webp,placeholder
+40,reading,Visionaries,images/readings/lesson40-visionaries.webp,placeholder
+40,reading,Storytellers,images/readings/lesson40-storytellers.webp,placeholder
+40,reading,Legends,images/readings/lesson40-legends.webp,placeholder
+lesson06-cover.webp,images/lessons/lesson06-cover.webp,Placeholder — add your own image
+lesson06-pioneers.webp,images/readings/lesson06-pioneers.webp,Placeholder — add your own image
+lesson06-creators.webp,images/readings/lesson06-creators.webp,Placeholder — add your own image
+lesson06-visionaries.webp,images/readings/lesson06-visionaries.webp,Placeholder — add your own image
+lesson06-storytellers.webp,images/readings/lesson06-storytellers.webp,Placeholder — add your own image
+lesson06-legends.webp,images/readings/lesson06-legends.webp,Placeholder — add your own image
+lesson07-cover.webp,images/lessons/lesson07-cover.webp,Placeholder — add your own image
+lesson07-pioneers.webp,images/readings/lesson07-pioneers.webp,Placeholder — add your own image
+lesson07-creators.webp,images/readings/lesson07-creators.webp,Placeholder — add your own image
+lesson07-visionaries.webp,images/readings/lesson07-visionaries.webp,Placeholder — add your own image
+lesson07-storytellers.webp,images/readings/lesson07-storytellers.webp,Placeholder — add your own image
+lesson07-legends.webp,images/readings/lesson07-legends.webp,Placeholder — add your own image
+lesson08-cover.webp,images/lessons/lesson08-cover.webp,Placeholder — add your own image
+lesson08-pioneers.webp,images/readings/lesson08-pioneers.webp,Placeholder — add your own image
+lesson08-creators.webp,images/readings/lesson08-creators.webp,Placeholder — add your own image
+lesson08-visionaries.webp,images/readings/lesson08-visionaries.webp,Placeholder — add your own image
+lesson08-storytellers.webp,images/readings/lesson08-storytellers.webp,Placeholder — add your own image
+lesson08-legends.webp,images/readings/lesson08-legends.webp,Placeholder — add your own image
+lesson09-cover.webp,images/lessons/lesson09-cover.webp,Placeholder — add your own image
+lesson09-pioneers.webp,images/readings/lesson09-pioneers.webp,Placeholder — add your own image
+lesson09-creators.webp,images/readings/lesson09-creators.webp,Placeholder — add your own image
+lesson09-visionaries.webp,images/readings/lesson09-visionaries.webp,Placeholder — add your own image
+lesson09-storytellers.webp,images/readings/lesson09-storytellers.webp,Placeholder — add your own image
+lesson09-legends.webp,images/readings/lesson09-legends.webp,Placeholder — add your own image
+lesson10-cover.webp,images/lessons/lesson10-cover.webp,Placeholder — add your own image
+lesson10-pioneers.webp,images/readings/lesson10-pioneers.webp,Placeholder — add your own image
+lesson10-creators.webp,images/readings/lesson10-creators.webp,Placeholder — add your own image
+lesson10-visionaries.webp,images/readings/lesson10-visionaries.webp,Placeholder — add your own image
+lesson10-storytellers.webp,images/readings/lesson10-storytellers.webp,Placeholder — add your own image
+lesson10-legends.webp,images/readings/lesson10-legends.webp,Placeholder — add your own image
